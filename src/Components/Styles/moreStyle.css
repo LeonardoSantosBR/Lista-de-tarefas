@@ -1,0 +1,31 @@
+.styleComponent{
+    display: flex;
+    width: 100%;
+}
+
+.input_style{
+    height: 30px;
+    font-size: 14px;
+    border-radius: 10px;
+    font-weight: bolder;
+    background-color: #555;
+    border: none;
+    color: rgb(115, 217, 224);
+    flex: 2;
+    margin-right: 4px;
+    padding: 4px;
+}
+.button_style{
+    border-radius: 10px;
+    border: none;
+    padding: 0 19px;
+    font-size: 16px;
+    color: rgba(255, 255, 255, 0.712);
+    background-color: rgb(117, 27, 90);
+    cursor: pointer;
+
+}
+.button_style:hover{
+    background-color: rgb(150, 26, 167);
+    transition: all 1s;
+}

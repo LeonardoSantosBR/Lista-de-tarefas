@@ -1,0 +1,26 @@
+.TaskDetails-style{
+    margin-top: 10px;
+    border-radius: 10px; 
+    background-color: #666;
+    padding: 10px;
+}
+.back-button{
+    display: flex;
+    justify-content: flex-start;
+    font-size: 20px;
+    padding: 7px;
+    color: aqua;
+}
+.DetailsTask{
+    color: rgb(92, 219, 219);
+}
+.DetailsTask p{
+    font-weight: 400px;
+    padding: 10px;
+    color: rgb(113, 201, 204);
+}
+.DetailsTask h1{
+    display: flex;
+    justify-content: flex-start;
+    padding: 10px;
+}

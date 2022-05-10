@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital@1&display=swap');
+
+.container_task{
+   display: flex;
+   justify-content: space-between;
+   color: beige;
+   background-color: #444;
+   margin: 8px 0;
+   padding: 8px 20px;
+   border: 1px solid rgba(255, 255, 255, 0.075);
+   border-radius: 10px;   
+   font-family: 'Poppins', sans-serif;
+   cursor: pointer;
+   transition: 0.5s;
+}
+
+.remove-task-button{
+   cursor: pointer;
+   border: none;
+   font-size: 17px;
+   background-color: #444;
+   color: aqua;
+}
+
+.see-task-details-button{
+   cursor: pointer;
+   border: none;
+   background-color: #444;
+   color: white;
+   font-size: 17px;
+}
